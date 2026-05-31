@@ -75,7 +75,7 @@ function Home() {
             <a href="https://github.com/kumbharadi3106-collab" target="_blank" rel="noreferrer" className="social-link">
               [GitHub]
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="social-link">
+            <a href="https://www.linkedin.com/in/aditya-kumbhar-51195b284" target="_blank" rel="noreferrer" className="social-link">
               [LinkedIn]
             </a>
             <a href="mailto:kumbharadi3106@gmail.com" className="social-link">
